@@ -1,3 +1,9 @@
+I have modified the existing files particularly around the main unit as I had trouble with sourcing the keyboard and the connectors for the cables were prohibitively expensive for me (I already had most of the core components, the screen, pi, etc).
+
+I have included some custom modules I built around a usb hub and a UPS unit (as opposed to the original modular battery pack design, just for options)
+
+
+(original introduction)
 This is the DesignatedFreeCadDevice, a moduar cyberdeck primarily designed to run FreeCad.
 
 ![DSCF1779](https://github.com/user-attachments/assets/cbbf986b-326c-486f-9e77-3bc8181b262e)
